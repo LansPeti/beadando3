@@ -45,8 +45,26 @@
 			<Add library="dxguid" />
 			<Add directory="lib" />
 		</Linker>
+		<Unit filename="ai_player.cpp" />
+		<Unit filename="ai_player.hpp" />
+		<Unit filename="application.cpp" />
+		<Unit filename="application.hpp" />
+		<Unit filename="button.cpp" />
+		<Unit filename="button.hpp" />
+		<Unit filename="game.cpp" />
+		<Unit filename="game.hpp" />
+		<Unit filename="game_master.cpp" />
+		<Unit filename="game_master.hpp" />
+		<Unit filename="game_over_menu.cpp" />
+		<Unit filename="game_over_menu.hpp" />
 		<Unit filename="graphicslib/graphics.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="main_menu.cpp" />
+		<Unit filename="main_menu.hpp" />
+		<Unit filename="pause_menu.cpp" />
+		<Unit filename="pause_menu.hpp" />
+		<Unit filename="widget.cpp" />
+		<Unit filename="widget.hpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
