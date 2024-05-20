@@ -1,0 +1,14 @@
+//FONTOS MEGJEGYZÉSEK
+//EZ A PROJEKT LANSZKI PÉTER HARMADIK BEADANDÓJA
+//A GITHUB REPOSITORYBAN KÖVETHETŐ A PROJEKT LÉTREJÖTTE, ÖSSZESEN 4 VERZIÓBAN, EHHEZ A FELADAT LEÍRÁSA ALAPJÁN KÜLÖN SZÖVEGFÁJLT CSATOLOK
+
+
+
+#include "application.hpp"
+
+int main()
+{
+    Application app;
+    app.run();
+    return 0;
+}
